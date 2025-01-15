@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Blqcksilence
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Blqcksilence 👋
 
-<!---
-Blqcksilence/Blqcksilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and learning new technologies.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, JavaScript, TypeScript, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Django, Flask, Spring Boot
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins, AWS, GCP
+
+
+## 📈 GitHub Stats
+
+![Blqcksilence's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blqcksilence&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+
+- Advanced algorithms and data structures
+- Cloud-native application development
+
+## 🌟 Fun Facts
+
+- I love solving complex problems and challenges.
+- In my free time, I enjoy playing video games and reading sci-fi novels.
+
+Feel free to reach out and connect with me!
+
+Thanks for stopping by! 😊
